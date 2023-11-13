@@ -1,2 +1,9 @@
-# imc-flutter
-IMC - Flutter
+### IMC - Flutter
+
+```
+flutter create imc
+```
+
+```
+flutter run
+```
